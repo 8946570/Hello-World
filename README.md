@@ -1,2 +1,2 @@
 # hello-world
-Just for P2
+My name is Horace, I am a student in the University of Oregon.
